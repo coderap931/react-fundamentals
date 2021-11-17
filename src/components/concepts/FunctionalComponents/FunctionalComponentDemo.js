@@ -14,11 +14,13 @@ const FunctionalComponentDemo = () => {
                     <dt>return()</dt>
                     <dd>Must return a single element, but this element may have nested elements inside of it.</dd>
                 </dl>
-                <h1>Functional Syntax vs Arrow Function</h1>
+                <div>
+                    <h1>Functional Syntax vs Arrow Function</h1>
 
-                <h1>Challenge</h1>
-                <HellowWorld />
-                <HelloWorldFatArrow />
+                    <h1>Challenge</h1>
+                    <HellowWorld />
+                    <HelloWorldFatArrow />
+                </div>
             </div>
         </div>
     );
